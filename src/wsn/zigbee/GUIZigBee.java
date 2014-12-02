@@ -15,7 +15,7 @@ public class GUIZigBee extends java.awt.Frame {
      * Creates new form GUIZigBee
      */
     public GUIZigBee() {
-        initComponents();
+        initComponents();  //ein neuer comment
     }
 
     /**
